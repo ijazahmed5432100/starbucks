@@ -489,26 +489,45 @@ footer{
 }
 
 
+
+
+
 .first-div-button:hover{
-    background-color: rgba(0,0,0,0.7);
+    background-color: rgba(0,0,0,0.2);
 }
 
 
 
+.second-div-button:hover{
+    background-color: rgba(0,0,0,0.2);
+}
+
+
+.third-div-button:hover{
+    background-color: rgba(0,0,0,0.2);
+}
+
+
+.fourth-div-button:hover{
+    background-color: rgba(0,0,0,0.2);
+}
 
 
 
+.fifth-div-button:hover{
+    background-color: rgba(0,0,0,0.2);
+}
 
 
 
+.sixth-div-button:hover{
+    background-color: rgba(0,0,0,0.2);
+}
 
 
-
-
-
-
-
-
+.seventh-div-button:hover{
+    background-color: rgba(0,0,0,0.2);
+}
 
 
 
